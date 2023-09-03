@@ -8,5 +8,7 @@ This research makes several notable contributions to the existing literature, wh
 2.	The study introduced standardized color-coded maps, providing a consistent and easily interpretable visual representation.
 3.	It integrated indices derived from the Galileo analyzer, expanding the range of quantitative data used in the analysis.
 4.	The study employed four advanced convolutional neural networks (CNNs), each specifically designed for analyzing one of the four maps.
-5.	A three-stage training approach was implemented, enhancing the accuracy and effectiveness of the CNN models utilized in the study. 
+5.	A three-stage training approach was implemented, enhancing the accuracy and effectiveness of the CNN models utilized in the study.
+
+
 Related paper is under preparation and submission, after which codes will become available in this repo. 
